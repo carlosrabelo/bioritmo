@@ -12,4 +12,8 @@ O ritmo emocional está relacionado ao estado emocional e ao humor de uma pessoa
 
 O ritmo intelectual está relacionado à capacidade cognitiva e à clareza mental de uma pessoa. Esse ritmo segue um ciclo de 33 dias, onde há períodos de alta atividade mental e períodos de menor clareza mental.
 
-A teoria dos biorritmos sugere que o conhecimento desses ciclos biológicos pode ajudar uma pessoa a entender melhor seu próprio funcionamento e a prever momentos de maior desempenho ou de maior vulnerabilidade em diferentes áreas da vida. No entanto, é importante ressaltar que a validade científica dessa teoria é contestada e não há evidências sólidas que comprovem sua eficácia. Muitos consideram os biorritmos como pseudociência, e sua aplicação prática não é amplamente aceita ou reconhecida pela comunidade científica.
+A teoria dos biorritmos sugere que o conhecimento desses ciclos biológicos pode ajudar uma pessoa a entender melhor seu próprio funcionamento e a prever momentos de maior desempenho ou de maior vulnerabilidade em diferentes áreas da vida. No entanto, é importante ressaltar que a validade científica dessa teoria é contestada e não há evidências sólidas que comprovem sua eficácia.
+
+## Aviso
+
+Muitos consideram os biorritmos como pseudociência, e sua aplicação prática não é amplamente aceita ou reconhecida pela comunidade científica. Então encare isto apenas como uma aplicação de como transformar uma ideia em código.
